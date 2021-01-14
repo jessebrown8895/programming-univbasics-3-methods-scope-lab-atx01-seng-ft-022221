@@ -12,3 +12,10 @@ def link
   catch_phrase = "It's Dangerous To Go Alone! Take This."
   puts catch_phrase 
 end
+
+def all_phrases
+  puts mario 
+  puts toadstool 
+  puts link
+end
+
